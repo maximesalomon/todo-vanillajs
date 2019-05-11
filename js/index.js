@@ -26,6 +26,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Stop form from submitting
         return false;
+
+        // https://codepen.io/bradtraversy/pen/odmVgN
     };
 
 });
